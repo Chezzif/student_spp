@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string-array name="tingkatan">
+        <item>X</item>
+        <item>XI</item>
+        <item>XII</item>
+    </string-array>
+    <string-array name="tahunAjaran">
+        <item>2025/2026</item>
+        <item>2026/2027</item>
+        <item>2027/2028</item>
+    </string-array>
+</resources>
